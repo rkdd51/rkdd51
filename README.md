@@ -8,13 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkdd51" alt="rkdd51" /></a> </p>
 
-- 🔭 I’m currently working on **visa-letter-application.**
-
-- 🌱 I’m currently learning **backend technologies**
-
-- 👯 I’m looking to collaborate on **MERN stack projects.**
-
-- 💬 Ask me about **Frontend (React).**
 
 - 📫 How to reach me **rahuldubay51@gamil.com**
 
